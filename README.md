@@ -1,2 +1,7 @@
-# poo_jrrg_ti21
-Repositorio para almacenar las prácticas de la materia de Programacion Orientada A Objetos
+# Curso de Programación Orientada a Objetos
+
+## Índice
+
+|No.1|Archivo|Descripción|
+|--|--|--|
+|1.|programa0.py|Hola mundo en Python|
