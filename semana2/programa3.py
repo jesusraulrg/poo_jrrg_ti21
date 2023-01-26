@@ -1,5 +1,5 @@
 """
-  Programa2
+  Programa3
   Nombre: Jesús Raúl Rosas Gómez
   Fecha: 24/01/2023
   Descripción: print y operaciones aritméticas con .format
