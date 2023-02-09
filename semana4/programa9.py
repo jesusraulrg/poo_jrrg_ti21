@@ -2,7 +2,7 @@
   Programa9
   Nombre: Jesús Raúl Rosas Gómez
   Fecha: 07/02/2023
-  Descripción: Distintas formas de realizar el programa8
+  Descripción: Distintas formas de realizar el programa8.py
 """
 #Realiza un programa que compare 2 numeros enteros e imprima el mayor de ellos y si son iguales imprima NONE
 
